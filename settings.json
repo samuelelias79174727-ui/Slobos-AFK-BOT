@@ -8,7 +8,7 @@
   "server": {
     "ip": "BoxpvpMulti.aternos.me",
     "port": 20201,
-    "version": "1.21.11"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
